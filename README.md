@@ -2,14 +2,14 @@
 Gràfics - FIB UPC - 23/24 Q1
 
 ## Continguts
-- [Teoria](Grafics/Teoria)
-  - [Apunts i Examens resolts](Grafics/Teoria/Apunts-i-Examens)
-  - [Competencia Transversal resolta](Grafics/Teoria/Competencia-Transversal)
-  - [PDF Exercicis de laboratori i apunts](Grafics/Teoria)
-- [Laboratori](Grafics/Laboratori)
-  - [Parcial 1 resolt](Grafics/Laboratori/CONTROL-1)
-  - [Parcial 2 resolt](Grafics/Laboratori/CONTROL-2)
-  - [Exercicis per sessió](Grafics/Laboratori)
+- [Teoria](/Teoria)
+  - [Apunts i Examens resolts](/Teoria/Apunts-i-Examens)
+  - [Competencia Transversal resolta](/Teoria/Competencia-Transversal)
+  - [PDF Exercicis de laboratori i apunts](/Teoria)
+- [Laboratori](/Laboratori)
+  - [Parcial 1 resolt](/Laboratori/CONTROL-1)
+  - [Parcial 2 resolt](/Laboratori/CONTROL-2)
+  - [Exercicis per sessió](/Laboratori)
 
 
 ## Que hi trobaràs?
